@@ -1,6 +1,12 @@
-.topOfPage{
-  display: flex;
-  justify-content: center;
+h1{
+  font-size: 3em;
+}
+
+body{
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  text-align: center;
+  background-color: #1D5B79;
+  color: #F3AA60
 }
 
 .container{
@@ -9,12 +15,16 @@
   
 }
 
+button{
+  height: 20px;
+  background-color:#EF6262
+}
+
 .player1{
-background-color: yellow;
+
 
 }
 
 .player2{
-  background-color: green;
   
 }
