@@ -1,0 +1,20 @@
+.topOfPage{
+  display: flex;
+  justify-content: center;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.player1{
+background-color: yellow;
+
+}
+
+.player2{
+  background-color: green;
+  
+}
